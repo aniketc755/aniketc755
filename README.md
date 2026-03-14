@@ -1,19 +1,46 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Aniket Chavan</h1>
 <h3 align="center">Aspiring Data Engineer | SQL | PySpark | Microsoft Fabric</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;SQL+%7C+PySpark+%7C+Data+Engineering;Building+Data+Pipelines;Learning+Modern+Data+Platforms"/>
+</p>
+
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎯 Aspiring **Data Engineer**
-- 💻 Skilled in **SQL, Python, PySpark**
-- 📊 Interested in **Data Pipelines, ETL, and Data Platforms**
-- 🧠 Learning **Data Engineering and Cloud Technologies**
-- 📍 India
+Hi, I'm **Aniket Chavan**.
 
-I enjoy building practical **data engineering projects**, working with datasets, and learning modern tools used for data processing and analytics.
+I am an **aspiring Data Engineer** interested in working with data and building data pipelines. I have hands-on experience with **SQL, PySpark, and modern data platforms** through personal projects.
+
+I have worked on projects like **Retail Analytics Lakehouse using Microsoft Fabric** and **Credit Card Transaction Analytics using Databricks**, where I implemented **Bronze, Silver, and Gold data architecture** for data processing and analytics.
+
+I enjoy learning new technologies, working with data, and building practical projects to improve my data engineering skills.
+
+---
+
+# 🚀 Projects
+
+## 📊 Retail Analytics Lakehouse
+End-to-end **Data Engineering project using Microsoft Fabric** implementing **Bronze, Silver, Gold architecture**.
+
+**Technologies**
+- Microsoft Fabric  
+- SQL  
+- PySpark  
+- Delta Lake  
+
+---
+
+## 💳 Credit Card Transaction Analytics & Fraud Detection
+Built a **data pipeline to analyze credit card transaction data and detect suspicious patterns**.
+
+**Technologies**
+- Azure Databricks  
+- PySpark  
+- Kafka  
+- Delta Lake  
+- Power BI  
 
 ---
 
@@ -30,42 +57,12 @@ I enjoy building practical **data engineering projects**, working with datasets,
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
 
-### Storage & Processing
+### Storage & Streaming
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A0A0A?style=for-the-badge&logo=delta&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-# 📂 Projects
-
-## 📊 Retail Analytics Lakehouse
-End-to-end **data engineering project using Microsoft Fabric** implementing **Bronze, Silver, Gold architecture**.
-
-**Features**
-- Data ingestion pipelines
-- Data transformation using PySpark
-- Medallion architecture
-- BI-ready datasets
-
-**Tech Used**
-`Microsoft Fabric` `SQL` `PySpark` `Delta Lake`
-
----
-
-## 💳 Credit Card Transaction Analytics & Fraud Detection
-Data engineering pipeline to analyze **credit card transaction data and detect suspicious spending patterns**.
-
-**Features**
-- Transaction data processing
-- Fraud detection logic
-- Customer spending analysis
-- Data aggregation for analytics
-
-**Tech Used**
-`Azure Databricks` `PySpark` `Kafka` `Delta Lake` `Power BI`
 
 ---
 
@@ -78,47 +75,66 @@ Electronics & Computer Science Engineering
 
 # 📜 Certifications
 
-- Data Engineering Learning Path
-- SQL for Data Analysis
-- Microsoft Fabric Learning Modules
+- SQL for Data Analysis  
+- Data Engineering Learning Modules  
+- Microsoft Fabric Learning Path  
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/aniketc75" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<p align="center">
+
+<a href="https://linkedin.com/in/aniketc75">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:chavananiket7588@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aniketc755&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=aniketc755&theme=radical&hide_border=true)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aniketc755&theme=radical)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniketc755&show_icons=true&theme=radical&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketc755&layout=compact&theme=radical)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketc755&theme=radical&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketc755&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=aniketc755&icon=0&color=0)<!--
-**aniketc755/aniketc755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👀 Profile Views
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aniketc755&label=Profile%20views&color=blueviolet&style=for-the-badge"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# ⚡ Coding Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="400"/>
+</p>
+
+---
