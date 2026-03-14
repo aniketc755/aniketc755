@@ -1,24 +1,32 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,50:16213e,100:0f3460&text=Aniket%20Chavan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Aniket%20Chavan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h2 align="center">Aspiring Data Engineer</h2>
+<h2 align="center">🚀 Aspiring Data Engineer</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=SQL+%7C+PySpark+%7C+Data+Engineering;Building+Data+Pipelines;Retail+%26+Banking+Data+Projects;Learning+Modern+Data+Platforms"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=SQL+%7C+PySpark+%7C+Data+Engineering;Building+Scalable+Data+Pipelines;Retail+%26+Banking+Analytics+Projects;Learning+Modern+Data+Platforms"/>
 </p>
 
 ---
 
 # 💫 About Me
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="350"/>
+</p>
+
 Hi 👋 I'm **Aniket Chavan**
 
-I am an **aspiring Data Engineer** passionate about building **data pipelines, ETL systems, and analytics platforms**.
+🎯 Aspiring **Data Engineer** interested in building **data pipelines, ETL systems, and analytics platforms**
 
-I enjoy working with **data processing technologies and modern data platforms** while building practical projects to improve my skills.
+💡 Passionate about:
+- Data Engineering
+- Data Processing
+- Analytics
+- Cloud Data Platforms
 
 📍 India
 
@@ -26,23 +34,48 @@ I enjoy working with **data processing technologies and modern data platforms** 
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 📊 Retail Analytics Lakehouse
 
-End-to-end **Data Engineering pipeline using Microsoft Fabric** implementing **Bronze, Silver, Gold architecture**.
+End-to-end **data engineering pipeline** using **Microsoft Fabric**.
 
-**Technologies**
+**Architecture**
 
-`Microsoft Fabric` `SQL` `PySpark` `Delta Lake`
+Bronze → Silver → Gold
 
----
+**Tech**
 
-### 💳 Credit Card Fraud Detection Pipeline
+`Microsoft Fabric`  
+`SQL`  
+`PySpark`  
+`Delta Lake`
 
-Developed a **data pipeline to analyze credit card transactions and detect suspicious spending patterns**.
+</td>
 
-**Technologies**
+<td width="50%">
 
-`Azure Databricks` `PySpark` `Kafka` `Delta Lake` `Power BI`
+### 💳 Credit Card Fraud Detection
+
+Real-time **credit card transaction analytics pipeline**.
+
+**Features**
+
+Fraud pattern detection  
+Spending trend analysis
+
+**Tech**
+
+`Databricks`  
+`PySpark`  
+`Kafka`  
+`Power BI`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -50,13 +83,13 @@ Developed a **data pipeline to analyze credit card transactions and detect suspi
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js" />
 
 </p>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=azure,github,vscode" />
 
 </p>
 
@@ -64,15 +97,19 @@ Developed a **data pipeline to analyze credit card transactions and detect suspi
 
 # 🛠 Data Engineering Stack
 
-| Category | Tools |
-|--------|--------|
+<p align="center">
+
+| Layer | Tools |
+|------|------|
 | Programming | Python |
 | Data Processing | PySpark |
 | Query Language | SQL |
-| Data Platforms | Microsoft Fabric, Databricks |
+| Platforms | Microsoft Fabric, Databricks |
 | Storage | Delta Lake, ADLS |
 | Streaming | Apache Kafka |
 | Visualization | Power BI |
+
+</p>
 
 ---
 
@@ -109,10 +146,10 @@ Electronics & Computer Science Engineering
 
 <p align="center">
 
-💡 *Always learning, always building.*
+✨ *Always learning. Always building.* ✨
 
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f3460,50:16213e,100:1a1a2e&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:2c5364,50:203a43,100:0f2027&section=footer"/>
 </p>
