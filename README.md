@@ -1,12 +1,13 @@
-<!-- ====================== BANNER ====================== -->
+<!-- ================= HEADER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aniket%20Chavan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,50:16213e,100:0f3460&text=Aniket%20Chavan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h2 align="center">Aspiring Data Engineer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=SQL+%7C+PySpark+%7C+Data+Engineering;Building+Data+Pipelines;Learning+Modern+Data+Platforms;Retail+%26+Banking+Data+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=SQL+%7C+PySpark+%7C+Data+Engineering;Building+Data+Pipelines;Retail+%26+Banking+Data+Projects;Learning+Modern+Data+Platforms"/>
 </p>
 
 ---
@@ -15,15 +16,9 @@
 
 Hi 👋 I'm **Aniket Chavan**
 
-🎯 Aspiring **Data Engineer** passionate about building **data pipelines and analytics systems**
+I am an **aspiring Data Engineer** passionate about building **data pipelines, ETL systems, and analytics platforms**.
 
-💡 Interested in:
-- Data Engineering
-- ETL Pipelines
-- Data Platforms
-- Analytics
-
-🧠 Currently learning advanced **Data Engineering & Cloud technologies**
+I enjoy working with **data processing technologies and modern data platforms** while building practical projects to improve my skills.
 
 📍 India
 
@@ -32,55 +27,52 @@ Hi 👋 I'm **Aniket Chavan**
 # 🚀 Featured Projects
 
 ### 📊 Retail Analytics Lakehouse
-End-to-end **data engineering pipeline** using **Microsoft Fabric** with **Bronze, Silver, Gold architecture**.
+
+End-to-end **Data Engineering pipeline using Microsoft Fabric** implementing **Bronze, Silver, Gold architecture**.
 
 **Technologies**
-```
-Microsoft Fabric • SQL • PySpark • Delta Lake
-```
 
-**Features**
-- Data ingestion pipelines  
-- Data transformation  
-- Medallion architecture  
-- BI-ready datasets  
+`Microsoft Fabric` `SQL` `PySpark` `Delta Lake`
 
 ---
 
 ### 💳 Credit Card Fraud Detection Pipeline
-Real-time **credit card transaction analytics** to detect suspicious spending patterns.
+
+Developed a **data pipeline to analyze credit card transactions and detect suspicious spending patterns**.
 
 **Technologies**
-```
-Azure Databricks • PySpark • Kafka • Delta Lake • Power BI
-```
 
-**Features**
-- Transaction streaming pipeline  
-- Fraud detection logic  
-- Spending trend analytics  
+`Azure Databricks` `PySpark` `Kafka` `Delta Lake` `Power BI`
 
 ---
 
-# 🛠 Tech Stack
+# 🧠 Skills
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
 
-### Data Engineering
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apache-spark&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js"/>
 
-### Data Platforms
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
+</p>
 
-### Storage & Streaming
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-000000?style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+<p align="center">
 
-### Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img src="https://skillicons.dev/icons?i=azure,github,vscode"/>
+
+</p>
+
+---
+
+# 🛠 Data Engineering Stack
+
+| Category | Tools |
+|--------|--------|
+| Programming | Python |
+| Data Processing | PySpark |
+| Query Language | SQL |
+| Data Platforms | Microsoft Fabric, Databricks |
+| Storage | Delta Lake, ADLS |
+| Streaming | Apache Kafka |
+| Visualization | Power BI |
 
 ---
 
@@ -115,52 +107,12 @@ Electronics & Computer Science Engineering
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aniketc755&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniketc755&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketc755&theme=tokyonight&hide_border=true"/>
+💡 *Always learning, always building.*
 
 </p>
 
 <p align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketc755&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=aniketc755&label=Profile%20views&color=7aa2f7&style=for-the-badge"/>
-</p>
-
----
-
-<p align="center">
-✨ Thanks for visiting my profile ✨
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f3460,50:16213e,100:1a1a2e&section=footer"/>
 </p>
