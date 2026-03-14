@@ -1,32 +1,31 @@
-<!-- ================= HEADER ================= -->
+<!-- HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Aniket%20Chavan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Aniket%20Chavan&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h2 align="center">🚀 Aspiring Data Engineer</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=SQL+%7C+PySpark+%7C+Data+Engineering;Building+Scalable+Data+Pipelines;Retail+%26+Banking+Analytics+Projects;Learning+Modern+Data+Platforms"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=SQL+%7C+PySpark+%7C+Data+Engineering;Building+Data+Pipelines;Retail+%26+Banking+Data+Projects;Learning+Modern+Data+Platforms"/>
 </p>
 
 ---
 
-# 💫 About Me
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="350"/>
-</p>
+# 👨‍💻 About Me
 
 Hi 👋 I'm **Aniket Chavan**
 
-🎯 Aspiring **Data Engineer** interested in building **data pipelines, ETL systems, and analytics platforms**
+🎯 Aspiring **Data Engineer**
 
-💡 Passionate about:
-- Data Engineering
-- Data Processing
-- Analytics
-- Cloud Data Platforms
+I enjoy building **data pipelines, ETL systems, and analytics platforms** using modern data technologies.
+
+💡 Interests
+
+• Data Engineering  
+• Data Pipelines  
+• Analytics  
+• Cloud Data Platforms  
 
 📍 India
 
@@ -34,13 +33,9 @@ Hi 👋 I'm **Aniket Chavan**
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## 📊 Retail Analytics Lakehouse
 
-### 📊 Retail Analytics Lakehouse
-
-End-to-end **data engineering pipeline** using **Microsoft Fabric**.
+Built an **end-to-end data engineering pipeline using Microsoft Fabric**
 
 **Architecture**
 
@@ -48,34 +43,30 @@ Bronze → Silver → Gold
 
 **Tech**
 
-`Microsoft Fabric`  
-`SQL`  
-`PySpark`  
-`Delta Lake`
+SQL  
+PySpark  
+Microsoft Fabric  
+Delta Lake  
 
-</td>
+---
 
-<td width="50%">
+## 💳 Credit Card Fraud Detection Pipeline
 
-### 💳 Credit Card Fraud Detection
-
-Real-time **credit card transaction analytics pipeline**.
+Real-time **credit card transaction analytics system**
 
 **Features**
 
-Fraud pattern detection  
-Spending trend analysis
+• Fraud detection rules  
+• Spending trend analysis  
+• Transaction analytics  
 
 **Tech**
 
-`Databricks`  
-`PySpark`  
-`Kafka`  
-`Power BI`
-
-</td>
-</tr>
-</table>
+Azure Databricks  
+PySpark  
+Kafka  
+Delta Lake  
+Power BI  
 
 ---
 
@@ -83,13 +74,7 @@ Spending trend analysis
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js" />
-
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=azure,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,azure,github,vscode"/>
 
 </p>
 
@@ -97,34 +82,32 @@ Spending trend analysis
 
 # 🛠 Data Engineering Stack
 
-<p align="center">
-
-| Layer | Tools |
-|------|------|
+| Category | Tools |
+|--------|--------|
 | Programming | Python |
 | Data Processing | PySpark |
 | Query Language | SQL |
-| Platforms | Microsoft Fabric, Databricks |
+| Data Platforms | Microsoft Fabric, Databricks |
 | Storage | Delta Lake, ADLS |
 | Streaming | Apache Kafka |
 | Visualization | Power BI |
-
-</p>
 
 ---
 
 # 🎓 Education
 
-**Bachelor of Engineering**  
+Bachelor of Engineering  
 Electronics & Computer Science Engineering
 
 ---
 
 # 📜 Certifications
 
-- SQL for Data Analysis  
-- Data Engineering Learning Path  
-- Microsoft Fabric Learning Modules  
+SQL for Data Analysis  
+
+Data Engineering Learning Modules  
+
+Microsoft Fabric Learning Path  
 
 ---
 
@@ -146,10 +129,10 @@ Electronics & Computer Science Engineering
 
 <p align="center">
 
-✨ *Always learning. Always building.* ✨
+✨ *Always learning. Always building.*
 
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:2c5364,50:203a43,100:0f2027&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
