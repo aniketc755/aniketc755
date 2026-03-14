@@ -1,46 +1,64 @@
-<h1 align="center">Hi 👋, I'm Aniket Chavan</h1>
-<h3 align="center">Aspiring Data Engineer | SQL | PySpark | Microsoft Fabric</h3>
+<!-- ====================== BANNER ====================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aniket%20Chavan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h2 align="center">Aspiring Data Engineer</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;SQL+%7C+PySpark+%7C+Data+Engineering;Building+Data+Pipelines;Learning+Modern+Data+Platforms"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=SQL+%7C+PySpark+%7C+Data+Engineering;Building+Data+Pipelines;Learning+Modern+Data+Platforms;Retail+%26+Banking+Data+Projects"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-Hi, I'm **Aniket Chavan**.
+Hi 👋 I'm **Aniket Chavan**
 
-I am an **aspiring Data Engineer** interested in working with data and building data pipelines. I have hands-on experience with **SQL, PySpark, and modern data platforms** through personal projects.
+🎯 Aspiring **Data Engineer** passionate about building **data pipelines and analytics systems**
 
-I have worked on projects like **Retail Analytics Lakehouse using Microsoft Fabric** and **Credit Card Transaction Analytics using Databricks**, where I implemented **Bronze, Silver, and Gold data architecture** for data processing and analytics.
+💡 Interested in:
+- Data Engineering
+- ETL Pipelines
+- Data Platforms
+- Analytics
 
-I enjoy learning new technologies, working with data, and building practical projects to improve my data engineering skills.
+🧠 Currently learning advanced **Data Engineering & Cloud technologies**
 
----
-
-# 🚀 Projects
-
-## 📊 Retail Analytics Lakehouse
-End-to-end **Data Engineering project using Microsoft Fabric** implementing **Bronze, Silver, Gold architecture**.
-
-**Technologies**
-- Microsoft Fabric  
-- SQL  
-- PySpark  
-- Delta Lake  
+📍 India
 
 ---
 
-## 💳 Credit Card Transaction Analytics & Fraud Detection
-Built a **data pipeline to analyze credit card transaction data and detect suspicious patterns**.
+# 🚀 Featured Projects
+
+### 📊 Retail Analytics Lakehouse
+End-to-end **data engineering pipeline** using **Microsoft Fabric** with **Bronze, Silver, Gold architecture**.
 
 **Technologies**
-- Azure Databricks  
-- PySpark  
-- Kafka  
-- Delta Lake  
-- Power BI  
+```
+Microsoft Fabric • SQL • PySpark • Delta Lake
+```
+
+**Features**
+- Data ingestion pipelines  
+- Data transformation  
+- Medallion architecture  
+- BI-ready datasets  
+
+---
+
+### 💳 Credit Card Fraud Detection Pipeline
+Real-time **credit card transaction analytics** to detect suspicious spending patterns.
+
+**Technologies**
+```
+Azure Databricks • PySpark • Kafka • Delta Lake • Power BI
+```
+
+**Features**
+- Transaction streaming pipeline  
+- Fraud detection logic  
+- Spending trend analytics  
 
 ---
 
@@ -58,7 +76,7 @@ Built a **data pipeline to analyze credit card transaction data and detect suspi
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Storage & Streaming
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A0A0A?style=for-the-badge&logo=delta&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-000000?style=for-the-badge)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### Visualization
@@ -76,8 +94,8 @@ Electronics & Computer Science Engineering
 # 📜 Certifications
 
 - SQL for Data Analysis  
-- Data Engineering Learning Modules  
-- Microsoft Fabric Learning Path  
+- Data Engineering Learning Path  
+- Microsoft Fabric Learning Modules  
 
 ---
 
@@ -97,10 +115,10 @@ Electronics & Computer Science Engineering
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aniketc755&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aniketc755&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -109,16 +127,24 @@ Electronics & Computer Science Engineering
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniketc755&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniketc755&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketc755&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketc755&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketc755&layout=compact&theme=radical&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketc755&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -126,15 +152,15 @@ Electronics & Computer Science Engineering
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aniketc755&label=Profile%20views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=aniketc755&label=Profile%20views&color=7aa2f7&style=for-the-badge"/>
 </p>
 
 ---
-
-# ⚡ Coding Animation
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="400"/>
+✨ Thanks for visiting my profile ✨
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
