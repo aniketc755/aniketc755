@@ -31,15 +31,21 @@
 <!-- ================= BANNER ================= -->
 
 <p align="center">
-<img src="assets/data-engineer-banner.png" width="900"/>
+<img src="https://raw.githubusercontent.com/aniketc755/aniketc755/main/github.jpg" width="900"/>
 </p>
+
+---
 
 <!-- ================= SOCIAL ICONS ================= -->
 
 <p align="left">
-<a href="https://linkedin.com/in/aniketc75"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/></a>
+<a href="https://linkedin.com/in/aniketc75">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>
+</a>
 &nbsp;&nbsp;
-<a href="mailto:chavananiket7588@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24"/></a>
+<a href="mailto:chavananiket7588@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24"/>
+</a>
 </p>
 
 ---
@@ -150,9 +156,9 @@ Chhatrapati Sambhaji Nagar
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniketc75&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniketc755&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketc75&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketc755&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -161,9 +167,13 @@ Chhatrapati Sambhaji Nagar
 # Contact
 
 <p align="center">
-<a href="https://linkedin.com/in/aniketc75"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"/></a>
+<a href="https://linkedin.com/in/aniketc75">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"/>
+</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:chavananiket7588@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="36"/></a>
+<a href="mailto:chavananiket7588@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="36"/>
+</a>
 </p>
 
 <p align="center">
