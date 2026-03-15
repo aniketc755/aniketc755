@@ -9,7 +9,13 @@
 </p>
 
 <p align="left">
-<a href="https://linkedin.com/in/aniketc75"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/></a><a href="mailto:chavananiket7588@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"/></a>
+<a href="https://linkedin.com/in/aniketc75">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:chavananiket7588@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"/>
+</a>
 </p>
 
 ---
