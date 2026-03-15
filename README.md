@@ -109,7 +109,20 @@ Lakehouse
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,azure,git,github,mysql,apachekafka,apachespark"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta%20Lake-0A0A0A?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Pipelines-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
@@ -148,7 +161,8 @@ Chhatrapati Sambhaji Nagar
 # Contact
 
 <p align="center">
-<a href="https://linkedin.com/in/aniketc75"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/aniketc75"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:chavananiket7588@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="36"/></a>
 </p>
 
