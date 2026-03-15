@@ -4,110 +4,116 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Aniket%20Chavan&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h2 align="center">🚀 Aspiring Data Engineer</h2>
+<h2 align="center">🚀 Data Engineer</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=SQL+%7C+PySpark+%7C+Data+Engineering;Building+Data+Pipelines;Retail+%26+Banking+Data+Projects;Learning+Modern+Data+Platforms"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=SQL+%7C+PySpark+%7C+Data+Engineering;Building+Data+Pipelines;Real-Time+Data+Streaming;Cloud+Data+Platforms"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 Profile Summary
 
 Hi 👋 I'm **Aniket Chavan**
 
-🎯 Aspiring **Data Engineer**
+🎯 **Data Engineer**
 
-I enjoy building **data pipelines, ETL systems, and analytics platforms** using modern data technologies.
+Aspiring Data Engineer with hands-on experience in building data pipelines using **Azure Databricks, Microsoft Fabric, Apache Kafka, and PySpark**. Certified **DP-600 Fabric Analytics Engineer Associate** with strong skills in **SQL, ETL/ELT pipelines, real-time data streaming, and cloud data platforms**.
 
-💡 Interests
+Passionate about designing **scalable data architectures** and transforming **raw data into analytics-ready datasets**.
 
-• Data Engineering  
-• Data Pipelines  
-• Analytics  
-• Cloud Data Platforms  
-
-📍 India
+📍 Aurangabad, Maharashtra, India
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-## 📊 Retail Analytics Lakehouse
+## 💳 Credit Card Product Launch Analytics & Real-Time Fraud Detection
 
-Built an **end-to-end data engineering pipeline using Microsoft Fabric**
+**Domain:** Banking
 
-**Architecture**
+A real-time credit card fraud detection pipeline using **Kafka, Databricks Structured Streaming and Delta Lake**.
 
-Bronze → Silver → Gold
+**Key Work**
 
-**Tech**
+• Designed and implemented **Bronze–Silver–Gold Medallion Architecture** using Delta Lake and Azure Databricks for scalable data processing.  
+• Developed a **real-time data ingestion pipeline using Apache Kafka and Databricks Structured Streaming** to process credit card transaction data.  
+• Optimized **Delta tables using partitioning and Z-Ordering** and managed secure credentials with **Databricks Secret Scope**.
 
-SQL  
-PySpark  
-Microsoft Fabric  
-Delta Lake  
-
----
-
-## 💳 Credit Card Fraud Detection Pipeline
-
-Real-time **credit card transaction analytics system**
-
-**Features**
-
-• Fraud detection rules  
-• Spending trend analysis  
-• Transaction analytics  
-
-**Tech**
+**Technologies**
 
 Azure Databricks  
+Apache Kafka  
 PySpark  
-Kafka  
 Delta Lake  
-Power BI  
+ADLS
 
 ---
 
-# 🧠 Skills
+## 📊 Retail Analytics Data Pipeline
+
+**Domain:** Retail
+
+Built an **end-to-end retail data pipeline** ingesting data from multiple REST APIs into **Microsoft Fabric Lakehouse**.
+
+**Key Work**
+
+• Implemented **Medallion Architecture (Bronze, Silver, Gold)** using Fabric Lakehouse and Data Warehouse.  
+• Transformed **JSON data using PySpark and SQL**.  
+• Automated ingestion using **Fabric Data Pipelines**, including **incremental loading and API pagination**.
+
+**Technologies**
+
+Microsoft Fabric  
+PySpark  
+SQL  
+Fabric Data Pipelines  
+Lakehouse  
+
+---
+
+# 🧠 Technical Skills
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,azure,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,github,azure,vscode"/>
 
 </p>
 
----
-
-# 🛠 Data Engineering Stack
-
-| Category | Tools |
-|--------|--------|
-| Programming | Python |
-| Data Processing | PySpark |
-| Query Language | SQL |
-| Data Platforms | Microsoft Fabric, Databricks |
-| Storage | Delta Lake, ADLS |
-| Streaming | Apache Kafka |
-| Visualization | Power BI |
+• SQL  
+• Python  
+• PySpark  
+• Git / GitHub  
+• Microsoft Azure  
+• Microsoft Fabric  
+• Azure Databricks  
+• Azure Data Services  
+• Data Warehouse  
+• Medallion Architecture  
+• Data Governance  
+• ETL / ELT Pipelines  
+• Apache Spark  
+• Apache Kafka  
 
 ---
 
 # 🎓 Education
 
-Bachelor of Engineering  
-Electronics & Computer Science Engineering
+Bachelor of Engineering – Electronic and Computer Engineering  
+
+MGM’s Jawaharlal Nehru Engineering College  
+
+2021 – 2025  
+
+Chhatrapati Sambhaji Nagar
 
 ---
 
-# 📜 Certifications
+# 📜 Certification
 
-SQL for Data Analysis  
+Microsoft Certified: **Fabric Analytics Engineer Associate (DP-600)**
 
-Data Engineering Learning Modules  
-
-Microsoft Fabric Learning Path  
+Microsoft
 
 ---
 
