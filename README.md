@@ -1,8 +1,8 @@
-<!-- ================= TECH DATA ENGINEER HEADER ================= -->
+<!-- ================= DATA ENGINEER TECH HEADER ================= -->
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=260&color=0:020617,50:0f172a,100:0ea5e9&text=ANIKET%20CHAVAN&fontSize=60&fontColor=00F5FF&stroke=00F5FF&strokeWidth=2&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,50:0f172a,100:06b6d4&text=Aniket%20Chavan&fontSize=60&fontColor=00F5FF&stroke=00F5FF&strokeWidth=2&animation=fadeIn"/>
 
 </p>
 
