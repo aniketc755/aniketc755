@@ -1,8 +1,9 @@
-<!-- ================= DATA ENGINEER TECH HEADER ================= -->
+<!-- ================= GLOWING DATA ENGINEER HEADER ================= -->
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,50:0f172a,100:06b6d4&text=Aniket%20Chavan&fontSize=60&fontColor=ffffff&stroke=00F5FF&strokeWidth=2&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,50:0f172a,100:06b6d4&text=Aniket%20Chavan&fontSize=60&fontColor=ffffff&animation=fadeIn"
+style="border:3px solid white;border-radius:20px;box-shadow:0px 0px 25px white;"/>
 
 </p>
 
