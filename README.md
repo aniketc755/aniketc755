@@ -31,7 +31,7 @@
 
 <p align="center">
 
-<a href="#-profile">Profile</a> • <a href="#-projects">Projects</a> • <a href="#️-tech-stack">Tech Stack</a> • <a href="#-certification">Certification</a> • <a href="#-education">Education</a> • <a href="#-github-dashboard">GitHub Stats</a>
+<a href="#-profile">Profile</a> • <a href="#-projects">Projects</a> • <a href="#️-tech-stack">Tech Stack</a> • <a href="#-certification">Certification</a> • <a href="#-education">Education</a> • <a href="#-github-dashboard">GitHub Stats</a> • <a href="#-contact">Contact</a>
 
 </p>
 
@@ -166,6 +166,28 @@ Chhatrapati Sambhaji Nagar
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketc75&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+---
+
+# 📬 Contact
+
+<p align="center">
+
+<a href="https://linkedin.com/in/aniketc75">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+</a>
+
+   
+
+<a href="mailto:chavananiket7588@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/>
+</a>
+
+</p>
+
+<p align="center">
+Feel free to connect with me 🚀
 </p>
 
 ---
