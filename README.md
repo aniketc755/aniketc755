@@ -31,7 +31,7 @@
 <!-- ================= BANNER ================= -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/aniketc755/aniketc755/main/github.jpg" width="900"/>
+<img src="https://raw.githubusercontent.com/aniketc755/aniketc755/main/github.png" width="450"/>
 </p>
 
 ---
