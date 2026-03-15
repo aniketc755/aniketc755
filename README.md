@@ -1,28 +1,19 @@
-<!-- ================= NEON CYBER HEADER ================= -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-
 <span style="display:inline-block;padding:6px;border-radius:16px;background:linear-gradient(90deg,#ffffff,#00F5FF,#ffffff);">
-
 <span style="display:block;padding:4px;border-radius:12px;background:#020617;">
-
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,50:0f172a,100:06b6d4&text=Aniket%20Chavan&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
-
 </span>
 </span>
-
 </p>
 
 <p align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Data+Engineer;Building+Scalable+Data+Pipelines;SQL+%7C+PySpark+%7C+Azure;Microsoft+Fabric+%7C+Kafka"/>
-
 </p>
 
 <p align="center">
-
 ⚙️ **DATA → PIPELINES → PLATFORMS → ANALYTICS**
-
 </p>
 
 ---
@@ -31,7 +22,7 @@
 
 <p align="center">
 
-<a href="#-profile">Profile</a> • <a href="#-projects">Projects</a> • <a href="#️-tech-stack">Tech Stack</a> • <a href="#-certification">Certification</a> • <a href="#-education">Education</a> • <a href="#-github-dashboard">GitHub Stats</a> • <a href="#-contact">Contact</a>
+<a href="#profile">Profile</a> • <a href="#projects">Projects</a> • <a href="#tech-stack">Tech Stack</a> • <a href="#certification">Certification</a> • <a href="#education">Education</a> • <a href="#github-dashboard">GitHub Stats</a> • <a href="#contact">Contact</a>
 
 </p>
 
@@ -47,17 +38,17 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/aniketc75">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:chavananiket7588@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24"/>
 </a>
 </p>
 
 ---
 
-# 👨‍💻 Profile
+# Profile
 
 Aspiring **Data Engineer** with hands-on experience building **data pipelines using Azure Databricks, Microsoft Fabric, Apache Kafka, and PySpark**.
 
@@ -69,9 +60,9 @@ Passionate about designing **scalable data architectures and analytics-ready dat
 
 ---
 
-# 🚀 Projects
+# Projects
 
-### 💳 Credit Card Product Launch Analytics & Real-Time Fraud Detection
+### Credit Card Product Launch Analytics & Real-Time Fraud Detection
 
 **Domain:** Banking
 
@@ -79,11 +70,11 @@ Real-time credit card fraud detection pipeline using **Kafka, Databricks Structu
 
 **Key Work**
 
-• Designed **Bronze–Silver–Gold Medallion Architecture**
-• Built **real-time ingestion pipeline using Apache Kafka**
-• Processed streaming transaction data using **Databricks Structured Streaming**
-• Optimized Delta tables using **Partitioning and Z-Ordering**
-• Managed credentials using **Databricks Secret Scope**
+• Designed Bronze–Silver–Gold Medallion Architecture
+• Built real-time ingestion pipeline using Apache Kafka
+• Processed streaming transaction data using Databricks Structured Streaming
+• Optimized Delta tables using Partitioning and Z-Ordering
+• Managed credentials using Databricks Secret Scope
 
 **Technologies**
 
@@ -95,7 +86,7 @@ ADLS
 
 ---
 
-### 📊 Retail Analytics Data Pipeline
+### Retail Analytics Data Pipeline
 
 **Domain:** Retail
 
@@ -103,10 +94,10 @@ End-to-end retail data pipeline ingesting data from REST APIs into **Microsoft F
 
 **Key Work**
 
-• Implemented **Medallion Architecture (Bronze, Silver, Gold)**
-• Transformed **JSON data using PySpark and SQL**
-• Automated ingestion using **Fabric Data Pipelines**
-• Implemented **incremental loading and API pagination**
+• Implemented Medallion Architecture (Bronze, Silver, Gold)
+• Transformed JSON data using PySpark and SQL
+• Automated ingestion using Fabric Data Pipelines
+• Implemented incremental loading and API pagination
 
 **Technologies**
 
@@ -118,7 +109,7 @@ Lakehouse
 
 ---
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -138,7 +129,7 @@ Lakehouse
 
 ---
 
-# 📜 Certification
+# Certification
 
 🏆 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
 
@@ -146,19 +137,17 @@ Microsoft
 
 ---
 
-# 🎓 Education
+# Education
 
 🎓 **Bachelor of Engineering – Electronic and Computer Engineering**
 
 MGM’s Jawaharlal Nehru Engineering College
-
 2021 – 2025
-
 Chhatrapati Sambhaji Nagar
 
 ---
 
-# 📊 GitHub Dashboard
+# GitHub Dashboard
 
 <p align="center">
 
@@ -170,30 +159,22 @@ Chhatrapati Sambhaji Nagar
 
 ---
 
-# 📬 Contact
+# Contact
 
 <p align="center">
 
 <a href="https://linkedin.com/in/aniketc75">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"/>
 </a>
 
-   
+    
 
 <a href="mailto:chavananiket7588@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="36"/>
 </a>
 
 </p>
 
 <p align="center">
-Feel free to connect with me 🚀
-</p>
-
----
-
-<p align="center">
-
-⚡ Building reliable data pipelines.
-
+🚀 Turning raw data into reliable data pipelines
 </p>
