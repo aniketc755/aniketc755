@@ -1,11 +1,17 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:141E30,50:243B55,100:4CA1AF&text=Aniket%20Chavan&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer&descAlignY=72&descSize=24"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:0F2027,50:203A43,100:2C5364&text=Aniket%20Chavan&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer&descAlignY=72&descSize=26"/>
+</p>
+
+<!-- ================= BANNER IMAGE ================= -->
+
+<p align="center">
+<img src="assets/data-engineer-banner.png" width="900"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=SQL+%7C+Python+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Building+Scalable+Data+Pipelines;Real-Time+Streaming+Architecture"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=780&lines=SQL+%7C+Python+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Building+Scalable+Data+Pipelines;Real-Time+Streaming+Architecture"/>
 </p>
 
 <p align="left">
@@ -22,10 +28,6 @@
 
 <h2 align="center">👨‍💻 Profile</h2>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Profile-Data%20Engineer%20Overview-blue?style=for-the-badge"/>
-</p>
-
 Aspiring **Data Engineer** with hands-on experience building **data pipelines using Azure Databricks, Microsoft Fabric, Apache Kafka, and PySpark**.
 
 Certified **DP-600 Fabric Analytics Engineer Associate** with strong skills in **SQL, ETL/ELT pipelines, real-time data streaming, and cloud data platforms**.
@@ -37,10 +39,6 @@ Passionate about designing **scalable data architectures and analytics-ready dat
 ---
 
 <h2 align="center">🚀 Projects</h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Data%20Engineering-Projects-blueviolet?style=for-the-badge"/>
-</p>
 
 ### 💳 Credit Card Product Launch Analytics & Real-Time Fraud Detection
 
@@ -109,10 +107,6 @@ Lakehouse
 
 <h2 align="center">📜 Certification</h2>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Microsoft-Certified-blue?style=for-the-badge"/>
-</p>
-
 🏆 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
 
 Microsoft
@@ -120,10 +114,6 @@ Microsoft
 ---
 
 <h2 align="center">🎓 Education</h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Education-Bachelor%20of%20Engineering-blue?style=for-the-badge"/>
-</p>
 
 🎓 **Bachelor of Engineering – Electronic and Computer Engineering**
 
@@ -154,5 +144,5 @@ Chhatrapati Sambhaji Nagar
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=140&section=footer"/>
 </p>
