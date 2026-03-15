@@ -1,30 +1,34 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= NEW HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Aniket%20Chavan&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Aniket%20Chavan&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h2 align="center">🚀 Data Engineer</h2>
+<h3 align="center">🚀 Data Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=SQL+%7C+PySpark+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Real-Time+Streaming+Pipelines;Building+Scalable+Data+Platforms"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=SQL+%7C+PySpark+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Real-Time+Streaming+Pipelines;Building+Scalable+Data+Platforms"/>
 </p>
 
 <p align="center">
+
 <a href="https://linkedin.com/in/aniketc75">
 <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
 </a>
-&nbsp;&nbsp;
+
+  
+
 <a href="mailto:chavananiket7588@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="32"/>
 </a>
+
 </p>
 
 ---
 
 # 👨‍💻 Profile
 
-Aspiring **Data Engineer** with hands-on experience in building data pipelines using **Azure Databricks, Microsoft Fabric, Apache Kafka, and PySpark**.
+Aspiring **Data Engineer** with hands-on experience building data pipelines using **Azure Databricks, Microsoft Fabric, Apache Kafka, and PySpark**.
 
 Certified **DP-600 Fabric Analytics Engineer Associate** with strong skills in **SQL, ETL/ELT pipelines, real-time data streaming, and cloud data platforms**.
 
@@ -40,7 +44,7 @@ Passionate about designing **scalable data architectures** and transforming **ra
 
 **Domain:** Banking
 
-A real-time credit card fraud detection pipeline using **Kafka, Databricks Structured Streaming and Delta Lake**.
+Real-time credit card fraud detection pipeline using **Kafka, Databricks Structured Streaming and Delta Lake**.
 
 **Key Work**
 
@@ -86,7 +90,7 @@ Lakehouse
 # 🧠 Technical Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,azure,github,vscode,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,mysql,azure,github,vscode,git,linux"/>
 </p>
 
 ### Programming
@@ -165,38 +169,6 @@ Chhatrapati Sambhaji Nagar
 
 ---
 
-# 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketc75&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aniketc75&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 📌 Featured Repositories
-
-<p align="center">
-
-<a href="https://github.com/aniketc75">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aniketc75&repo=Credit-Card-Fraud-Detection&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/aniketc75">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aniketc75&repo=Retail-Analytics-Pipeline&theme=tokyonight"/>
-</a>
-
-</p>
-
----
-
 # 💡 Random Dev Quote
 
 <p align="center">
@@ -206,7 +178,9 @@ Chhatrapati Sambhaji Nagar
 ---
 
 <p align="center">
+
 ✨ Always learning. Always building.
+
 </p>
 
 <p align="center">
