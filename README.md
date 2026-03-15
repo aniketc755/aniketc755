@@ -1,174 +1,87 @@
-<!-- ================= FUTURISTIC HEADER ================= -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:020024,50:090979,100:00d4ff&text=ANIKET%20CHAVAN&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=DATA%20ENGINEER%20%7C%20BUILDING%20MODERN%20DATA%20PLATFORMS&descAlignY=72&descSize=26"/>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Aniket%20Chavan&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=SQL+%7C+Python+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Real-Time+Streaming+Pipelines;Building+Scalable+Data+Platforms"/>
-</p>
-
-<!-- ================= NAVIGATION ================= -->
-
-<p align="center">
-
-<a href="#-profile">Profile</a> • <a href="#-projects">Projects</a> • <a href="#️-tech-stack">Tech Stack</a> • <a href="#-certification">Certification</a> • <a href="#-education">Education</a> • <a href="#-github-dashboard">GitHub Stats</a>
-
+  <img src="https://img.shields.io/badge/Role-Data%20Engineer-blue?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certified-DP--600-orange?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Aurangabad,%20India-success?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-<!-- ================= BANNER ================= -->
-
-<p align="center">
-<img src="assets/data-engineer-banner.png" width="920"/>
-</p>
-
-<!-- ================= SOCIAL ICONS ================= -->
-
-<p align="left">
-<a href="https://linkedin.com/in/aniketc75">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:chavananiket7588@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"/>
-</a>
-</p>
+### 👨‍💻 Profile
+* **Aspiring Data Engineer** with hands-on experience building data pipelines using **Azure Databricks, Microsoft Fabric, Apache Kafka, and PySpark**.
+* **Certified DP-600 Fabric Analytics Engineer Associate** with strong skills in SQL, ETL/ELT pipelines, real-time data streaming, and cloud data platforms.
+* **Passionate** about designing scalable data architectures and analytics-ready datasets.
+* 📍 **Aurangabad, Maharashtra, India**
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=14,15,16"/>
+### 🚀 Projects
 
-# 👨‍💻 Profile
-
-Aspiring **Data Engineer** with hands-on experience building **data pipelines using Azure Databricks, Microsoft Fabric, Apache Kafka, and PySpark**.
-
-Certified **DP-600 Fabric Analytics Engineer Associate** with strong skills in **SQL, ETL/ELT pipelines, real-time data streaming, and cloud data platforms**.
-
-Passionate about designing **scalable data architectures and analytics-ready datasets**.
-
-📍 Aurangabad, Maharashtra, India
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=14,15,16"/>
-
-# 🚀 Projects
-
-### 💳 Credit Card Product Launch Analytics & Real-Time Fraud Detection
-
-**Domain:** Banking
-
-Real-time credit card fraud detection pipeline using **Kafka, Databricks Structured Streaming and Delta Lake**.
+#### 💳 Credit Card Product Launch Analytics & Real-Time Fraud Detection
+> **Domain:** Banking  
+> *Real-time credit card fraud detection pipeline using Kafka, Databricks Structured Streaming and Delta Lake.*
 
 **Key Work**
+* • Designed **Bronze–Silver–Gold Medallion Architecture**
+* • Built real-time ingestion pipeline using **Apache Kafka**
+* • Processed streaming transaction data using **Databricks Structured Streaming**
+* • Optimized Delta tables using **Partitioning and Z-Ordering**
+* • Managed credentials using **Databricks Secret Scope**
 
-• Designed **Bronze–Silver–Gold Medallion Architecture**
-• Built **real-time ingestion pipeline using Apache Kafka**
-• Processed streaming transaction data using **Databricks Structured Streaming**
-• Optimized Delta tables using **Partitioning and Z-Ordering**
-• Managed credentials using **Databricks Secret Scope**
-
-**Technologies**
-
-Azure Databricks
-Apache Kafka
-PySpark
-Delta Lake
-ADLS
+**Technologies:** `Azure Databricks` | `Apache Kafka` | `PySpark` | `Delta Lake` | `ADLS`
 
 ---
 
-### 📊 Retail Analytics Data Pipeline
-
-**Domain:** Retail
-
-End-to-end retail data pipeline ingesting data from REST APIs into **Microsoft Fabric Lakehouse**.
+#### 📊 Retail Analytics Data Pipeline
+> **Domain:** Retail  
+> *End-to-end retail data pipeline ingesting data from REST APIs into Microsoft Fabric Lakehouse.*
 
 **Key Work**
+* • Implemented **Medallion Architecture (Bronze, Silver, Gold)**
+* • Transformed JSON data using **PySpark and SQL**
+* • Automated ingestion using **Fabric Data Pipelines**
+* • Implemented **incremental loading** and **API pagination**
 
-• Implemented **Medallion Architecture (Bronze, Silver, Gold)**
-• Transformed **JSON data using PySpark and SQL**
-• Automated ingestion using **Fabric Data Pipelines**
-• Implemented **incremental loading and API pagination**
-
-**Technologies**
-
-Microsoft Fabric
-PySpark
-SQL
-Fabric Data Pipelines
-Lakehouse
+**Technologies:** `Microsoft Fabric` | `PySpark` | `SQL` | `Fabric Data Pipelines` | `Lakehouse`
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=14,15,16"/>
+### ⚙️ Tech Stack
+| Category | Tools |
+| :--- | :--- |
+| **Cloud Platforms** | `Azure` `Microsoft Fabric` `Databricks` |
+| **Data Processing** | `PySpark` `Apache Kafka` `SQL` |
+| **Data Storage** | `ADLS Gen2` `Delta Lake` `Lakehouse` |
 
-# ⚙️ Tech Stack
+---
 
+### 📜 Certification
+* 🏆 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
+* *Microsoft*
+
+---
+
+### 🎓 Education
+* 🎓 **Bachelor of Engineering – Electronic and Computer Engineering**
+* **MGM’s Jawaharlal Nehru Engineering College**
+* 2021 – 2025
+* *Chhatrapati Sambhaji Nagar*
+
+---
+
+### 📊 GitHub Dashboard
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,azure,github,git" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketc755&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketc755&layout=compact&theme=radical&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/SQL-00E5FF?style=for-the-badge&logo=database&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-8E24AA?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-FF9800?style=for-the-badge&logo=apachespark&logoColor=black"/>
-<img src="https://img.shields.io/badge/Spark-FFC107?style=for-the-badge&logo=apachespark&logoColor=black"/>
-<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=14,15,16"/>
-
-# 📜 Certification
-
-🏆 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
-
-Microsoft
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=14,15,16"/>
-
-# 🎓 Education
-
-🎓 **Bachelor of Engineering – Electronic and Computer Engineering**
-
-MGM’s Jawaharlal Nehru Engineering College
-
-2021 – 2025
-
-Chhatrapati Sambhaji Nagar
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=14,15,16"/>
-
-# 📊 GitHub Dashboard
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniketc75&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketc75&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-⚡ Building reliable data pipelines.
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketc755&theme=radical&hide_border=true" width="94%" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,100:00d4ff&height=140&section=footer"/>
+  ⚡ <b>Building reliable data pipelines.</b>
 </p>
