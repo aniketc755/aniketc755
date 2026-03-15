@@ -1,11 +1,11 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&customColorList=12,20,30&text=Aniket%20Chavan&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer&descAlignY=70&descSize=24"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:141E30,50:243B55,100:4CA1AF&text=Aniket%20Chavan&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer&descAlignY=72&descSize=24"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=SQL+%7C+Python+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Building+Scalable+Data+Pipelines;Real-Time+Streaming+Architecture"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=SQL+%7C+Python+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Building+Scalable+Data+Pipelines;Real-Time+Streaming+Architecture"/>
 </p>
 
 <p align="left">
@@ -20,7 +20,11 @@
 
 ---
 
-# 👨‍💻 Profile
+<h2 align="center">👨‍💻 Profile</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Profile-Data%20Engineer%20Overview-blue?style=for-the-badge"/>
+</p>
 
 Aspiring **Data Engineer** with hands-on experience building **data pipelines using Azure Databricks, Microsoft Fabric, Apache Kafka, and PySpark**.
 
@@ -32,9 +36,13 @@ Passionate about designing **scalable data architectures and analytics-ready dat
 
 ---
 
-# 🚀 Projects
+<h2 align="center">🚀 Projects</h2>
 
-## 💳 Credit Card Product Launch Analytics & Real-Time Fraud Detection
+<p align="center">
+<img src="https://img.shields.io/badge/Data%20Engineering-Projects-blueviolet?style=for-the-badge"/>
+</p>
+
+### 💳 Credit Card Product Launch Analytics & Real-Time Fraud Detection
 
 **Domain:** Banking
 
@@ -58,7 +66,7 @@ ADLS
 
 ---
 
-## 📊 Retail Analytics Data Pipeline
+### 📊 Retail Analytics Data Pipeline
 
 **Domain:** Retail
 
@@ -81,33 +89,29 @@ Lakehouse
 
 ---
 
-# ⚙️ Tech Stack
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
 ---
 
-# 📜 Certification
+<h2 align="center">📜 Certification</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft-Certified-blue?style=for-the-badge"/>
+</p>
 
 🏆 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
 
@@ -115,7 +119,11 @@ Microsoft
 
 ---
 
-# 🎓 Education
+<h2 align="center">🎓 Education</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Education-Bachelor%20of%20Engineering-blue?style=for-the-badge"/>
+</p>
 
 🎓 **Bachelor of Engineering – Electronic and Computer Engineering**
 
@@ -127,7 +135,7 @@ Chhatrapati Sambhaji Nagar
 
 ---
 
-# 📊 GitHub Dashboard
+<h2 align="center">📊 GitHub Dashboard</h2>
 
 <p align="center">
 
@@ -146,5 +154,5 @@ Chhatrapati Sambhaji Nagar
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=140&section=footer"/>
 </p>
