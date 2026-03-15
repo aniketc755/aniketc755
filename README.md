@@ -4,22 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&customColorList=12,20,30&text=Aniket%20Chavan&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer&descAlignY=70&descSize=24"/>
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=SQL+%7C+Python+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Building+Scalable+Data+Pipelines;Real-Time+Streaming+Architecture"/>
 </p>
 
 <p align="left">
-
-<a href="https://linkedin.com/in/aniketc75">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/>
-</a>
-
-  
-
-<a href="mailto:chavananiket7588@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"/>
-</a>
-
+<a href="https://linkedin.com/in/aniketc75"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/></a><a href="mailto:chavananiket7588@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"/></a>
 </p>
 
 ---
