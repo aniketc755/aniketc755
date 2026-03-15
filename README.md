@@ -1,9 +1,16 @@
-<!-- ================= GLOWING RECTANGLE HEADER ================= -->
+<!-- ================= NEON CYBER HEADER ================= -->
 
 <p align="center">
-<span style="display:inline-block;border:3px solid white;border-radius:12px;padding:6px;">
+
+<span style="display:inline-block;padding:6px;border-radius:16px;background:linear-gradient(90deg,#ffffff,#00F5FF,#ffffff);">
+
+<span style="display:block;padding:4px;border-radius:12px;background:#020617;">
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,50:0f172a,100:06b6d4&text=Aniket%20Chavan&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+
 </span>
+</span>
+
 </p>
 
 <p align="center">
