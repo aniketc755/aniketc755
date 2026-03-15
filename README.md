@@ -1,17 +1,17 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= DATA ENGINEER HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:0F2027,50:203A43,100:2C5364&text=Aniket%20Chavan&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer&descAlignY=72&descSize=26"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=320&color=0:0F2027,50:203A43,100:2C5364&text=ANIKET%20CHAVAN&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer%20%7C%20Building%20Data%20Pipelines&descAlignY=72&descSize=26"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=SQL+%7C+Python+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Real-Time+Data+Streaming;Designing+Scalable+Data+Pipelines"/>
 </p>
 
 <!-- ================= BANNER IMAGE ================= -->
 
 <p align="center">
-<img src="assets/data-engineer-banner.png" width="900"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=780&lines=SQL+%7C+Python+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Building+Scalable+Data+Pipelines;Real-Time+Streaming+Architecture"/>
+<img src="assets/data-engineer-banner.png" width="850"/>
 </p>
 
 <p align="left">
@@ -26,7 +26,13 @@
 
 ---
 
+<!-- ================= PROFILE ================= -->
+
 <h2 align="center">👨‍💻 Profile</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Data%20Engineer-Profile-blueviolet?style=for-the-badge"/>
+</p>
 
 Aspiring **Data Engineer** with hands-on experience building **data pipelines using Azure Databricks, Microsoft Fabric, Apache Kafka, and PySpark**.
 
@@ -38,7 +44,13 @@ Passionate about designing **scalable data architectures and analytics-ready dat
 
 ---
 
+<!-- ================= PROJECTS ================= -->
+
 <h2 align="center">🚀 Projects</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Data%20Engineering-Projects-6A5ACD?style=for-the-badge"/>
+</p>
 
 ### 💳 Credit Card Product Launch Analytics & Real-Time Fraud Detection
 
@@ -87,6 +99,8 @@ Lakehouse
 
 ---
 
+<!-- ================= TECH STACK ================= -->
+
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
@@ -105,7 +119,13 @@ Lakehouse
 
 ---
 
+<!-- ================= CERTIFICATION ================= -->
+
 <h2 align="center">📜 Certification</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft%20Certified-Fabric%20Analytics%20Engineer-blue?style=for-the-badge"/>
+</p>
 
 🏆 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
 
@@ -113,7 +133,13 @@ Microsoft
 
 ---
 
+<!-- ================= EDUCATION ================= -->
+
 <h2 align="center">🎓 Education</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Education-Bachelor%20of%20Engineering-4682B4?style=for-the-badge"/>
+</p>
 
 🎓 **Bachelor of Engineering – Electronic and Computer Engineering**
 
@@ -124,6 +150,8 @@ MGM’s Jawaharlal Nehru Engineering College
 Chhatrapati Sambhaji Nagar
 
 ---
+
+<!-- ================= GITHUB STATS ================= -->
 
 <h2 align="center">📊 GitHub Dashboard</h2>
 
