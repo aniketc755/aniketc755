@@ -1,25 +1,21 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=280&section=header&text=Aniket%20Chavan&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer&descSize=22&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=260&section=header&text=Aniket%20Chavan&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer&descAlignY=70&descSize=22"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=SQL+%7C+PySpark+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Building+Data+Pipelines;Real-Time+Streaming+Architecture"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=SQL+%7C+PySpark+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Building+Data+Pipelines;Real-Time+Streaming+Architecture"/>
 </p>
 
 <p align="center">
-
 <a href="https://linkedin.com/in/aniketc75">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-   
-
+&nbsp;&nbsp;
 <a href="mailto:chavananiket7588@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
@@ -85,15 +81,18 @@ Lakehouse
 
 ---
 
-# ⚙️ Skills & Tech Stack
+# ⚙️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,azure,github,vscode,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,mysql,azure,git,github"/>
 
-<br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=postgres,aws,docker,kafka" />
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft"/>
+<img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka"/>
 
 </p>
 
@@ -131,20 +130,12 @@ Chhatrapati Sambhaji Nagar
 
 ---
 
-# 💡 Developer Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
 <p align="center">
 
-⚡ Building scalable data platforms.
+⚡ Building reliable data pipelines.
 
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=140&section=footer"/>
 </p>
