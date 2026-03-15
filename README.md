@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,50:0f172a,100:06b6d4&text=Aniket%20Chavan&fontSize=60&fontColor=00F5FF&stroke=00F5FF&strokeWidth=2&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,50:0f172a,100:06b6d4&text=Aniket%20Chavan&fontSize=60&fontColor=ffffff&stroke=00F5FF&strokeWidth=2&animation=fadeIn"/>
 
 </p>
 
