@@ -1,17 +1,17 @@
-<!-- ================= DATA ENGINEER HEADER ================= -->
+<!-- ================= MODERN DATA ENGINEER HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=320&color=0:0F2027,50:203A43,100:2C5364&text=ANIKET%20CHAVAN&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer%20%7C%20Building%20Data%20Pipelines&descAlignY=72&descSize=26"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0F2027,50:203A43,100:2C5364&text=ANIKET%20CHAVAN&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=DATA%20ENGINEER%20%7C%20BUILDING%20SCALABLE%20DATA%20PIPELINES&descAlignY=72&descSize=26"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=SQL+%7C+Python+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Real-Time+Data+Streaming;Designing+Scalable+Data+Pipelines"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=SQL+%7C+Python+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Real-Time+Data+Streaming;Designing+Scalable+Data+Platforms"/>
 </p>
 
-<!-- ================= BANNER IMAGE ================= -->
+<!-- ================= IMAGE BANNER ================= -->
 
 <p align="center">
-<img src="assets/data-engineer-banner.png" width="850"/>
+<img src="assets/data-engineer-banner.png" width="900"/>
 </p>
 
 <p align="left">
@@ -26,13 +26,7 @@
 
 ---
 
-<!-- ================= PROFILE ================= -->
-
-<h2 align="center">👨‍💻 Profile</h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Data%20Engineer-Profile-blueviolet?style=for-the-badge"/>
-</p>
+# 👨‍💻 Profile
 
 Aspiring **Data Engineer** with hands-on experience building **data pipelines using Azure Databricks, Microsoft Fabric, Apache Kafka, and PySpark**.
 
@@ -44,13 +38,7 @@ Passionate about designing **scalable data architectures and analytics-ready dat
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-
-<h2 align="center">🚀 Projects</h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Data%20Engineering-Projects-6A5ACD?style=for-the-badge"/>
-</p>
+# 🚀 Projects
 
 ### 💳 Credit Card Product Launch Analytics & Real-Time Fraud Detection
 
@@ -99,33 +87,33 @@ Lakehouse
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-
-<h2 align="center">⚙️ Tech Stack</h2>
+# ⚙️ Tech Stack
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
 ---
 
-<!-- ================= CERTIFICATION ================= -->
-
-<h2 align="center">📜 Certification</h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Microsoft%20Certified-Fabric%20Analytics%20Engineer-blue?style=for-the-badge"/>
-</p>
+# 📜 Certification
 
 🏆 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
 
@@ -133,13 +121,7 @@ Microsoft
 
 ---
 
-<!-- ================= EDUCATION ================= -->
-
-<h2 align="center">🎓 Education</h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Education-Bachelor%20of%20Engineering-4682B4?style=for-the-badge"/>
-</p>
+# 🎓 Education
 
 🎓 **Bachelor of Engineering – Electronic and Computer Engineering**
 
@@ -151,9 +133,7 @@ Chhatrapati Sambhaji Nagar
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-
-<h2 align="center">📊 GitHub Dashboard</h2>
+# 📊 GitHub Dashboard
 
 <p align="center">
 
