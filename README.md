@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&customColorList=12,20,30&text=Aniket%20Chavan&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer&descAlignY=70&descSize=24"/>
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=SQL+%7C+Python+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Building+Scalable+Data+Pipelines;Real-Time+Streaming+Architecture"/>
 </p>
 
