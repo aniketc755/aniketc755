@@ -1,4 +1,4 @@
-<!-- ================= 3D DATA ENGINEER HEADER ================= -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:0F2027,40:1F3C5A,70:203A43,100:2C5364&text=ANIKET%20CHAVAN&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=DATA%20ENGINEER%20%7C%20BUILDING%20SCALABLE%20DATA%20PIPELINES&descAlignY=72&descSize=26"/>
@@ -8,11 +8,23 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=850&lines=SQL+%7C+Python+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Real-Time+Data+Streaming;Designing+Scalable+Data+Platforms"/>
 </p>
 
-<!-- ================= IMAGE BANNER ================= -->
+<!-- ================= NAVIGATION ================= -->
+
+<p align="center">
+
+<a href="#-profile">Profile</a> • <a href="#-projects">Projects</a> • <a href="#️-tech-stack">Tech Stack</a> • <a href="#-certification">Certification</a> • <a href="#-education">Education</a> • <a href="#-github-dashboard">GitHub Stats</a>
+
+</p>
+
+---
+
+<!-- ================= BANNER ================= -->
 
 <p align="center">
 <img src="assets/data-engineer-banner.png" width="920"/>
 </p>
+
+<!-- ================= SOCIAL ICONS ================= -->
 
 <p align="left">
 <a href="https://linkedin.com/in/aniketc75">
@@ -26,7 +38,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
 
 # 👨‍💻 Profile
 
