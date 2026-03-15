@@ -1,16 +1,24 @@
-<!-- ================= CLEAN MODERN HEADER ================= -->
+<!-- ================= DATA ENGINEER TECH HEADER ================= -->
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=0:111827,100:2563EB&text=Aniket%20Chavan&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:000000,50:0f172a,100:06b6d4&text=Aniket%20Chavan&fontSize=60&fontColor=00E5FF&animation=fadeIn"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+Engineer;SQL+%7C+Python+%7C+PySpark;Azure+Databricks+%7C+Microsoft+Fabric;Building+Scalable+Data+Pipelines"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Data+Engineer;Building+Scalable+Data+Pipelines;SQL+%7C+PySpark+%7C+Azure;Microsoft+Fabric+%7C+Kafka"/>
 
 </p>
+
+<p align="center">
+
+⚙️ **DATA → PIPELINES → PLATFORMS → ANALYTICS**
+
+</p>
+
+---
 
 <!-- ================= NAVIGATION ================= -->
 
@@ -107,17 +115,17 @@ Lakehouse
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,azure,github,git" />
+<img src="https://skillicons.dev/icons?i=python,azure,git,github"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/SQL-0284C7?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-06B6D4?style=for-the-badge&logo=database&logoColor=black"/>
 <img src="https://img.shields.io/badge/Microsoft%20Fabric-6366F1?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySpark-F59E0B?style=for-the-badge&logo=apachespark&logoColor=black"/>
 <img src="https://img.shields.io/badge/Spark-FBBF24?style=for-the-badge&logo=apachespark&logoColor=black"/>
-<img src="https://img.shields.io/badge/Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 
 </p>
 
@@ -156,5 +164,7 @@ Chhatrapati Sambhaji Nagar
 ---
 
 <p align="center">
+
 ⚡ Building reliable data pipelines.
+
 </p>
