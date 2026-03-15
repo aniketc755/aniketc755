@@ -1,25 +1,23 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Aniket%20Chavan&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=280&section=header&text=Aniket%20Chavan&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer&descSize=22&descAlignY=70"/>
 </p>
 
-<h2 align="center">⚡ Data Engineer</h2>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=SQL+%7C+PySpark+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Building+Data+Pipelines;Real-Time+Streaming+Architecture"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=SQL+%7C+PySpark+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Building+Data+Pipelines;Real-Time+Streaming+Architecture"/>
 </p>
 
 <p align="center">
 
 <a href="https://linkedin.com/in/aniketc75">
-<img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
    
 
 <a href="mailto:chavananiket7588@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="32"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -50,9 +48,9 @@ Real-time credit card fraud detection pipeline using **Kafka, Databricks Structu
 
 • Designed **Bronze–Silver–Gold Medallion Architecture**
 • Built **real-time ingestion pipeline using Apache Kafka**
-• Processed streaming transaction data with **Databricks Structured Streaming**
+• Processed streaming transaction data using **Databricks Structured Streaming**
 • Optimized Delta tables using **Partitioning and Z-Ordering**
-• Managed credentials with **Databricks Secret Scope**
+• Managed credentials using **Databricks Secret Scope**
 
 **Technologies**
 
@@ -74,7 +72,7 @@ End-to-end retail data pipeline ingesting data from REST APIs into **Microsoft F
 
 • Implemented **Medallion Architecture (Bronze, Silver, Gold)**
 • Transformed **JSON data using PySpark and SQL**
-• Automated ingestion with **Fabric Data Pipelines**
+• Automated ingestion using **Fabric Data Pipelines**
 • Implemented **incremental loading and API pagination**
 
 **Technologies**
@@ -91,16 +89,11 @@ Lakehouse
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,azure,github,vscode,git,linux"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,azure,github,vscode,git,linux" />
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka"/>
-<img src="https://img.shields.io/badge/Delta%20Lake-0A0A0A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure%20Databricks-EA1F2E?style=for-the-badge&logo=databricks"/>
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft"/>
-<img src="https://img.shields.io/badge/Data%20Warehouse-025E8C?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=postgres,aws,docker,kafka" />
 
 </p>
 
@@ -153,5 +146,5 @@ Chhatrapati Sambhaji Nagar
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=140&section=footer"/>
 </p>
