@@ -8,16 +8,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=SQL+%7C+Python+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Building+Scalable+Data+Pipelines;Real-Time+Streaming+Architecture"/>
 </p>
 
-<p align="center">
+<p align="left">
 
 <a href="https://linkedin.com/in/aniketc75">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/>
 </a>
 
-    
+  
 
 <a href="mailto:chavananiket7588@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"/>
 </a>
 
 </p>
