@@ -1,10 +1,9 @@
-<!-- ================= GLOWING DATA ENGINEER HEADER ================= -->
+<!-- ================= GLOWING RECTANGLE HEADER ================= -->
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,50:0f172a,100:06b6d4&text=Aniket%20Chavan&fontSize=60&fontColor=ffffff&animation=fadeIn"
-style="border:3px solid white;border-radius:20px;box-shadow:0px 0px 25px white;"/>
-
+<span style="display:inline-block;border:3px solid white;border-radius:12px;padding:6px;">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,50:0f172a,100:06b6d4&text=Aniket%20Chavan&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+</span>
 </p>
 
 <p align="center">
