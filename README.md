@@ -1,17 +1,17 @@
-<!-- ================= MODERN DATA ENGINEER HEADER ================= -->
+<!-- ================= 3D DATA ENGINEER HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0F2027,50:203A43,100:2C5364&text=ANIKET%20CHAVAN&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=DATA%20ENGINEER%20%7C%20BUILDING%20SCALABLE%20DATA%20PIPELINES&descAlignY=72&descSize=26"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:0F2027,40:1F3C5A,70:203A43,100:2C5364&text=ANIKET%20CHAVAN&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=DATA%20ENGINEER%20%7C%20BUILDING%20SCALABLE%20DATA%20PIPELINES&descAlignY=72&descSize=26"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=SQL+%7C+Python+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Real-Time+Data+Streaming;Designing+Scalable+Data+Platforms"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=850&lines=SQL+%7C+Python+%7C+Data+Engineering;Azure+Databricks+%7C+Microsoft+Fabric;Real-Time+Data+Streaming;Designing+Scalable+Data+Platforms"/>
 </p>
 
 <!-- ================= IMAGE BANNER ================= -->
 
 <p align="center">
-<img src="assets/data-engineer-banner.png" width="900"/>
+<img src="assets/data-engineer-banner.png" width="920"/>
 </p>
 
 <p align="left">
@@ -26,6 +26,8 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&section=header"/>
+
 # 👨‍💻 Profile
 
 Aspiring **Data Engineer** with hands-on experience building **data pipelines using Azure Databricks, Microsoft Fabric, Apache Kafka, and PySpark**.
@@ -37,6 +39,8 @@ Passionate about designing **scalable data architectures and analytics-ready dat
 📍 Aurangabad, Maharashtra, India
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
 
 # 🚀 Projects
 
@@ -87,6 +91,8 @@ Lakehouse
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
+
 # ⚙️ Tech Stack
 
 <p align="center">
@@ -113,6 +119,8 @@ Lakehouse
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
+
 # 📜 Certification
 
 🏆 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
@@ -120,6 +128,8 @@ Lakehouse
 Microsoft
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
 
 # 🎓 Education
 
@@ -132,6 +142,8 @@ MGM’s Jawaharlal Nehru Engineering College
 Chhatrapati Sambhaji Nagar
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
 
 # 📊 GitHub Dashboard
 
@@ -152,5 +164,5 @@ Chhatrapati Sambhaji Nagar
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3C5A,100:0F2027&height=140&section=footer"/>
 </p>
